@@ -119,6 +119,7 @@ resources
 * Search product
 * Sort product
 * Pagination
+* Edit / Delete actions
 
 ### Add Product
 
